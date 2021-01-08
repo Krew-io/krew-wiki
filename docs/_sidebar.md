@@ -67,10 +67,10 @@
         * [Steel Barrel](/items/cannon/steelbarrel.md)
         * [Sinker's Gloves](/items/cannon/sinkersgloves.md)
         * [Blue Gunpowder](/items/cannon/bluegunpowder.md)
-        * Hybrid
-            * [Drifter](/items/cannon/hybrid/drifter.md)
-            * [Bruiser](/items/cannon/hybrid/bruiser.md)
-            * [Demolisher](/items/cannon/hybrid/demolisher.md)
+        * [Bruiser](/items/cannon/bruiser.md)
+        * [Demolisher](/items/cannon/demolisher.md)
+    * Hybrid
+        * [Drifter](/items/cannon/hybrid/drifter.md)
 ---
 * [Cargo](/cargo.md)
     * [Rum](/cargo/rum.md)
