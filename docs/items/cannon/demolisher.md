@@ -1,6 +1,6 @@
 |Title      | Demolisher      
 |:-|-:
-|Type       | Hybrid          
+|Type       | Cannon         
 |Effects    |  +25% [Fire Rate](gameplay/upgrades/firerate.md) & +4 [Damage](gameplay/upgrades/damage.md)
 |Price      | 100k [Gold](gold.md)
 |Islands    | [Jamaica](gameplay/islands/jamaica.md)
