@@ -1,6 +1,6 @@
 |Title      | Bruiser      
 |:-|-:
-|Type       | Canon          
+|Type       | Cannon          
 |Effects    | +10% [Fire Rate](gameplay/upgrades/firerate.md) & +4 [Damage](gameplay/upgrades/damage.md)
 |Price      | 20k [Gold](gold.md)
 |Islands    | [Brazil](gameplay/islands/brazil.md) & [Spain](gameplay/islands/spain.md)          
