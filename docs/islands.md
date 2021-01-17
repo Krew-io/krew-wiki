@@ -103,10 +103,10 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td><a href="/#/cargo/sugar">Sugar</a></td>
             <td>175</td>
             <td>145</td>
-            <td style="background: #0f6e33;">120</td>
+            <td>120</td>
             <td>200</td>
             <td>175</td>
-            <td>100</td>
+            <td style="background: #0f6e33;">100</td>
             <td>250</td>
             <td>150</td>
             <td>200</td>
@@ -117,8 +117,8 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td>70</td>
             <td>65</td>
             <td>60</td>
-            <td style="background: #0f6e33;">45</td>
-            <td>30</td>
+            <td>45</td>
+            <td style="background: #0f6e33;">30</td>
             <td style="background: #b50b0b;">90</td>
             <td>45</td>
             <td>45</td>
