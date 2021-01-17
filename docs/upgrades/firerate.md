@@ -11,7 +11,7 @@ Fire rate was massively buffed on the 2020 Christmas Update, making 50-0-0 with 
     + Boosts fire rate by 5%
 
  + [Sinker's Gloves](/items/cannon/sinkersgloves.md) 
-    + Boosts fire rate by 30%
+    + Boosts fire rate by 25%
 
  + [Bruiser](/items/cannon/hybrid/bruiser.md) 
     + Boosts fire rate by 10% (On top of upgrades)
