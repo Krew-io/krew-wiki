@@ -39,4 +39,6 @@ It sells the following non-unique boats:
 Expect pirates because it is often a good trade spot.
 
 # Fun Facts
-- Nothing funny in spain
+- Spain's coffee is the most expensive out of all the islands.
+- Spain has the lowest price for spice out of all the islands.
+- Spain has the lowest price for silk out of all the islands.

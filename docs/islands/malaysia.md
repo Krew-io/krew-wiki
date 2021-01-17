@@ -33,4 +33,5 @@ It sells the following non-unique boats:
 
 
 # Fun Facts
-- Nothing funny in malaysia
+- Malaysia's spice is the most expensive out of all the islands.
+- Malaysia's bananas is the most expensive out of all the islands.

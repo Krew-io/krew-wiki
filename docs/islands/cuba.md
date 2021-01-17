@@ -33,4 +33,4 @@ It sells the following non-unique boats:
 Expect pirates because it is often a good trade spot.
 
 # Fun Facts
-- Nothing funny in cuba
+- Cuba has the lowest price for rum out of all the islands.

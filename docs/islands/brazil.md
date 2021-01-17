@@ -30,4 +30,4 @@ It sells the following non-unique boats:
 * [Baby Fancy](/ships/babyfancy.md)
 
 # Fun Facts
-- Nothing funny in Brazil
+- Brazil has the cheapest rum out of all the islands.
