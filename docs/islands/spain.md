@@ -17,7 +17,7 @@ On Spain [Rum](/cargo/rum.md) is most expensive on any island making it a good s
 
 The 2 ships unique to Spain is: 
 
-[Queen Barb's Justice](/ships/qbj.md) and the [Raider](/ships/raider.md).
+[Queen Barb's Justice](/ships/qbj.md), the [Raider](/ships/raider.md), and the [Junkie](/ships/junkie.md).
 
 It sells the following non-unique boats:
 

@@ -58,7 +58,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td>55</td>
             <td>35</td>
             <td style="background: #0f6e33;">30</td>
-            <td></td>
+            <td>45</td>
         </tr>
         <tr>
             <td><a href="/#/cargo/spice">Spice</a></td>
