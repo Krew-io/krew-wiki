@@ -3,7 +3,14 @@
 
 Cargo are the goods used for trading in the sea of krew. 
 
-There are 7 types of cargo. [Rum](/cargo/rum.md), [Coffee](/cargo/coffee.md), [Spice](/cargo/spice.md), [Silk](/cargo/silk.md), [Gems](/cargo/gems.md), [Sugar](/cargo/sugar.md), and [Bananas](/cargo/bananas.md).
+There are 7 types of cargo. 
+* [Rum](/cargo/rum.md) 
+* [Coffee](/cargo/coffee.md) 
+* [Spice](/cargo/spice.md) 
+* [Silk](/cargo/silk.md) 
+* [Gems](/cargo/gems.md)
+* [Sugar](/cargo/sugar.md)
+* [Bananas](/cargo/bananas.md)
 
 All 7 types of cargo vary in cargo space and price.
 
