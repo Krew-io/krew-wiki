@@ -3,16 +3,21 @@ Spain lies in the northeast (top right) corner of the map.
 
 # Cargo 
 It sells 
-* [Rum](/cargo/rum.md) for 52 [gold](/gold.md)
-* [Coffee](/cargo/coffee.md) for 65 [gold](/gold.md)
-* [Spice](/cargo/spice.md) for 35 [gold](/gold.md)
-* [Silk](/cargo/silk.md) for 180 [gold](/gold.md)
+* [Rum](/cargo/rum.md) for 200 [gold](/gold.md)
+* [Coffee](/cargo/coffee.md) for 84 [gold](/gold.md)
+* [Spice](/cargo/spice.md) for 50 [gold](/gold.md)
+* [Silk](/cargo/silk.md) for 100 [gold](/gold.md)
+* [Gems](/cargo/gems.md) for 200 [gold](/gold.md)
+* [Sugar](/cargo/sugar.md) for 175 [gold](/gold.md)
+* [Bananas](/cargo/bananas.md) for 70 [gold](/gold.md)
+
+On Spain [Rum](/cargo/rum.md) is most expensive on any island making it a good selling point while you can buy [Spice](/cargo/spice.md) and [Silk](/cargo/silk.md) at the cheapest price.
 
 # Ships
 
 The 2 ships unique to Spain is: 
 
-[Queen Barb's Justice](/ships/qbj.md) and the [Raider](/ships/raider.md).
+[Queen Barb's Justice](/ships/qbj.md), the [Raider](/ships/raider.md), and the [Junkie](/ships/junkie.md).
 
 It sells the following non-unique boats:
 
@@ -34,5 +39,6 @@ It sells the following non-unique boats:
 Expect pirates because it is often a good trade spot.
 
 # Fun Facts
-- Like [Labrador](/islands/labrador.md), it does not sell a cargo item for a price higher than any other island.
-- It is the only island that does *not* have a cargo that's for the cheapest price.
+- Spain's coffee is the most expensive out of all the islands.
+- Spain has the lowest price for spice out of all the islands.
+- Spain has the lowest price for silk out of all the islands.

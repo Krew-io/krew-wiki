@@ -1,24 +1,20 @@
-There are 10 islands:
-- [Spain](/islands/spain.md) 
-- [Phillipines](/islands/phillipines.md)
-- [Guinea](/islands/guinea.md)
-- [Labrador](/islands/labrador.md)
-- [Jamaica](/islands/jamaica.md)
-- [Malaysia](/islands/malaysia.md)
-- [Cuba](/islands/cuba.md)
-- [Barabados](/islands/barabados.md)
-- [Brazil](/islands/brazil.md)
-- [Taiwan](/islands/taiwan.md)
-            
-At each island, you are allowed to:
-* Buy [Ships](/ships.md).
-* Buy [Items](/items.md).
-* Buy/Sell [Cargo](/cargo.md).
-* Join krews that are docked there.
-* Deposit/Withdraw from the [Bank](/bank.md) (only works at [Labrador](/islands/labrador.md)).
 
-Note that upon 8 seconds after arriving at an island, the kaptain of a vessel will be able to dock the ship, which will make it invincible to any enemies. However, during that 10 second period, the ship will be vulnerable to all enemy vessels, unlike departing, which takes either 5 or 25 seconds instead of 10 seconds and is invulnerable during that wait time.
+# Cargo
 
+Cargo are the goods used for trading in the sea of krew. 
+
+There are 7 types of cargo. 
+* [Rum](/cargo/rum.md) 
+* [Coffee](/cargo/coffee.md) 
+* [Spice](/cargo/spice.md) 
+* [Silk](/cargo/silk.md) 
+* [Gems](/cargo/gems.md)
+* [Sugar](/cargo/sugar.md)
+* [Bananas](/cargo/bananas.md)
+
+All 7 types of cargo vary in cargo space and price.
+
+Each type of cargo price is different for every island.
 <table class="article-table">
     <tbody>
         <tr>
@@ -103,10 +99,10 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td><a href="/#/cargo/sugar">Sugar</a></td>
             <td>175</td>
             <td>145</td>
-            <td>120</td>
+            <td style="background: #0f6e33;">120</td>
             <td>200</td>
             <td>175</td>
-            <td style="background: #0f6e33;">100</td>
+            <td>100</td>
             <td>250</td>
             <td>150</td>
             <td>200</td>
@@ -117,8 +113,8 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td>70</td>
             <td>65</td>
             <td>60</td>
-            <td>45</td>
-            <td style="background: #0f6e33;">30</td>
+            <td style="background: #0f6e33;">45</td>
+            <td>30</td>
             <td style="background: #b50b0b;">90</td>
             <td>45</td>
             <td>45</td>
