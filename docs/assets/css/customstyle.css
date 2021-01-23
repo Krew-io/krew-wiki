@@ -18,15 +18,7 @@
     }
 }
 
-#coverpage-fade-in {
+.coverpage-fade-in {
     -webkit-animation: fade-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
     animation: fade-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
-    font-family: "Courier New", Courier, monospace;
-    font-size: 400%;
-    color: black;
-}
-
-#coverpage-subtitle {
-    font-size: 140%;
-    color: black;
 }
