@@ -23,7 +23,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <th><a href="/wiki/Islands" title="Islands">Island</a>
                 <p>Commodity</p>
             </th>
-            <th><a href="/islands/spain.md" title="Spain">Spain</a></th>
+            <th href="/islands/spain.md">Spain</th>
             <th><a href="/islands/phillipines.md" title="Phillipines">Phillipines</a></th>
             <th><a href="/islands/guinea.md" title="Guinea">Guinea</a></th>
             <th><a href="/islands/labrador.md" title="Labrador">Labrador</a></th>
