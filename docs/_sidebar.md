@@ -1,14 +1,9 @@
 
 - [Home](/)
-
---- 
 * [Gameplay](/pages/gameplay.md)
+---
 * [Islands](/pages/islands.md)
 * [Cargo](/pages/cargo.md)
-* [Upgrades](/pages/upgrades.md)
-    * [Fire Rate](/pages/upgrades/firerate.md)
-    * [Distance](/pages/upgrades/distance.md)
-    * [Damage](/pages/upgrades/damage.md)
 ---
 * [Ships](/pages/ships.md)
     * Rafts
@@ -43,6 +38,10 @@
     * [Cannon](/pages/tools/cannon.md)
     * [Fishing Rod](/pages/tools/fishingrod.md)
     * [Spyglass](/pages/tools/spyglass.md)
+* [Upgrades](/pages/upgrades.md)
+    * [Fire Rate](/pages/upgrades/firerate.md)
+    * [Distance](/pages/upgrades/distance.md)
+    * [Damage](/pages/upgrades/damage.md)
 * [Items](/pages/items/items.md)
     * Stats
         * [Fire Rate](/pages/items/stats/firerate.md)
