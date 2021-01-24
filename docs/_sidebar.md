@@ -14,12 +14,12 @@
     * [Barabados](/pages/islands/barabados.md)
     * [Brazil](/pages/islands/brazil.md)
     * [Taiwan](/pages/islands/taiwan.md)
+* [Cargo](/pages/cargo.md)
 * [Upgrades](/pages/upgrades.md)
     * [Fire Rate](/pages/upgrades/firerate.md)
     * [Distance](/pages/upgrades/distance.md)
     * [Damage](/pages/upgrades/damage.md)
 * [Tips & Tricks](/pages/tips.md)
-* [Economy](/pages/economy.md)
 * [Bugs & Glitches](/pages/bugs.md)
 ---
 * [Ships](/pages/ships.md)
@@ -71,13 +71,3 @@
             * [Drifter](/pages/items/cannon/hybrid/drifter.md)
             * [Bruiser](/pages/items/cannon/hybrid/bruiser.md)
             * [Demolisher](/pages/items/cannon/hybrid/demolisher.md)
----
-* [Cargo](/pages/cargo.md)
-    * [Coffee](/pages/cargo/coffee.md)
-    * [Coffee](/pages/cargo/coffee.md)
-    * [Coffee](/pages/cargo/coffee.md)
-    * [Coffee](/pages/cargo/coffee.md)
-    * [Coffee](/pages/cargo/coffee.md)
-    * [Coffee](/pages/cargo/coffee.md)
-    * [Bananas](/pages/cargo/coffee.md)
----
