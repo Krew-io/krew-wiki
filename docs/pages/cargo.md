@@ -4,7 +4,7 @@ Cargo can be bought and sold at different [islands](pages/islands.md) for profit
 
 ## Cargo Prices
 
-<table class="article-table">
+<table class="cargo-table">
     <tbody>
         <tr>
             <th></th>
