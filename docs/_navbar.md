@@ -1,1 +1,0 @@
-* [Discord](https://discord.krew.io)
