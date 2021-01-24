@@ -19,6 +19,6 @@ Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall
 * `5` `6` `7` - Upgrade your [fire rate](pages/upgrades/firerate.md), [distance](pages/upgrades/distance.md), or [damage](pages/upgrades/damage.md).
 
 ## Objective
-As with most games of this genre, the main goal is to become #1 on the leaderboard. In order to do that, you can either search for crabs and shells on the [islands](pages/islands.md) or have to kill other players to gain money to buy better [ships](/ships.md) to kill more players to gain more money to buy better [ships](pages/ships.md).
+As with most games of this genre, the main goal is to become #1 on the leaderboard. In order to do that, you can either search for crabs and shells on the [islands](pages/islands.md), or kill other players to gain money and buy better [ships](/ships.md)).
 
 But you can't do it alone. You will need a krew to provide extra firepower. Also, you can use the trader boats to trade lots of goods to gain gold quickly. You will be an easy target though so you might need a full krew or fleet to protect you. 
