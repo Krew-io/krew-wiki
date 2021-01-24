@@ -1,5 +1,7 @@
 # Islands
 
+In the world of [Krew.io](https://krew.io), there are ten [islands](pages/islands.md). They are places where ships may dock to upgrade themselves and players to purchase items and goods. Note that 8 seconds after a boat arrives at an [island](pages/islands.md), they may dock, making them invulnerable. During these 8 seconds though, they are vulnerable to any attacks, unlike departing, which takes 5 or 25 seconds instead of 8 seconds and is invulnerable during that 5 or 25 seconds.
+
 ## Island List
 
 - Spain
