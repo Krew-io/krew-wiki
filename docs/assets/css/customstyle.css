@@ -51,3 +51,7 @@ hr.rounded {
 .subtitle {
     font-size: 135%;
 }
+
+.article-table {
+    margin: 0 auto;
+}
