@@ -15,4 +15,4 @@ Strategical facts to note:
 - Just the right amount of distance can provide long-range benefits.
 - A large fire rate works perfectly in accordance with the [Demolisher](/items/cannon/demolisher.md)
 
-![Upgrades Bar](https://cdn.discordapp.com/attachments/257163738258472960/796683795000066058/latest.png)
+![Upgrades Bar](../assets/img/upgradesbar.png)
