@@ -43,7 +43,7 @@
     * [Fire Rate](/pages/upgrades/firerate.md)
     * [Distance](/pages/upgrades/distance.md)
     * [Damage](/pages/upgrades/damage.md)
-* [Items](/pages/items/items.md)
+* [Items](/pages/items.md)
     * Stats Items
         * [Fire Rate](/pages/items/stats/firerate.md)
         * [Distance](/pages/items/stats/distance.md)
