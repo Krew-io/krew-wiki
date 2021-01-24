@@ -49,7 +49,7 @@
         * [Queen Barb's Justice](/pages/ships/qbj.md)
         * [Queen Barb's Justice 2](/pages/ships/qbj2.md)
 ---
-* [Tools](/pages/tools/tools.md)
+* [Tools](/pages/tools.md)
     * [Cannon](/pages/tools/cannon.md)
     * [Fishing Rod](/pages/tools/fishingrod.md)
     * [Spyglass](/pages/tools/spyglass.md)
