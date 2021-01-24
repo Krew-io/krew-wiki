@@ -19,8 +19,6 @@
     * [Fire Rate](/pages/upgrades/firerate.md)
     * [Distance](/pages/upgrades/distance.md)
     * [Damage](/pages/upgrades/damage.md)
-* [Tips & Tricks](/pages/tips.md)
-* [Bugs & Glitches](/pages/bugs.md)
 ---
 * [Ships](/pages/ships.md)
     * Rafts
