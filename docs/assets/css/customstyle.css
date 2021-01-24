@@ -36,6 +36,11 @@
     display: none;
 }
 
+hr.rounded {
+    border-top: 5px solid rgba(100, 100, 100, 0.808);
+    border-radius: 5px;
+}
+
 .coverpage-title {
     -webkit-animation: fade-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
     animation: fade-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
