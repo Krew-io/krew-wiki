@@ -33,11 +33,11 @@ If you started as a krew member, you will start with 50 damage credit shown in t
 
 Once you get enough [to buy a ship, you can break free from your kaptain, either by abandoning ship or politely asking your kaptain to go to an island.
 
-#### Abandoning Ship 
+### Abandoning Ship 
 
 While abandoning ship is much quicker, you only get a wood plank, which can be easily sunk as it has only 25 hp. The more conflict surrounding the area, the more likely your escape is to be successful. If there is no conflict, the krew members of the ship you were just on will turn on you and sink you.
 
-#### Go to Island 
+### Go to Island 
 
 Politely asking usually only works if you have been serving for your kaptain for a long time, a form of honorable discharge.
 
@@ -67,11 +67,11 @@ After a dozen or so minutes as a Boat, you'll notice that you've gathered up a d
 
 Destroyer life is hard at first. You must get used to the very unwieldy turning of the destroyer, and you'll probably lose a few boats because the destroyer is not very maneuverable. The destroyer is not for chasing; it is for sheer brute force. The maximum amount of krew on a Destroyer is a powerful threat in the game, provided that all of them are at least half-decent at aiming.
 
-## Baby Fancies 
+### Baby Fancies 
 This is probably the best choice if you are solo pirating. A Baby can handle a lot of damage and many others miss shots on it due to its sleek body shape. It has a good damage output (3 krew slots) for firing and has been known to create several glitches, often incorrectly referred to as "hacks". It also has a sail that allows it to go quite fast (5.9 units) and 300 health, or in the case of the Baby Fancy 2, 500 health. The cargo is either 500 or 600, which allows a little trading to be done on the side. The best trade route for a fancy would be Jamaica-Guinea, where one would attack traders and rafts along the way.
 
-## Big Mamas 
-Big mamas are larger and cost more than destroyers. They are fast, with moderate to larger health (1800-4000). The largest ship is the Queen Barb's Justice 2 (350,000). It is recommended that you have a moderate to large size of krew (10-25) when buying ships of these kinds. They have been known to fall to the Baby Fancy and Baby Fancy 2 due to their ship being so insanely large and easy to hit.
+### Big Mamas 
+Big mamas are larger and cost more than destroyers. They are fast, with moderate to larger health (1800-7500). The largest ships are the Fortune Trader and the Black Oyster. It is recommended that you have a moderate to large size of krew (10-25) when buying ships of these kinds. They have been known to fall to the Baby Fancy and Baby Fancy 2 due to their ship being so insanely large and easy to hit.
 
 ## A Word of Warning 
 Be careful; if your ship sinks, you will lose your gold and you have to respawn. It's more desirable to retire when at a peaceful island, so your krew can continue your legacy under a new kaptain.
