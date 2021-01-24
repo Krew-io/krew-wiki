@@ -1,41 +1,41 @@
+# Islands
+
 There are 10 islands:
-- [Spain](/islands/spain.md) 
-- [Phillipines](/islands/phillipines.md)
-- [Guinea](/islands/guinea.md)
-- [Labrador](/islands/labrador.md)
-- [Jamaica](/islands/jamaica.md)
-- [Malaysia](/islands/malaysia.md)
-- [Cuba](/islands/cuba.md)
-- [Barabados](/islands/barabados.md)
-- [Brazil](/islands/brazil.md)
-- [Taiwin](/islands/taiwan.md)
+- [Spain](/pages/islands/spain.md) 
+- [Phillipines](/pages/islands/phillipines.md)
+- [Guinea](/pages/islands/guinea.md)
+- [Labrador](/pages/islands/labrador.md)
+- [Jamaica](/pages/islands/jamaica.md)
+- [Malaysia](/pages/islands/malaysia.md)
+- [Cuba](/pages/islands/cuba.md)
+- [Barabados](/pages/islands/barabados.md)
+- [Brazil](/pages/islands/brazil.md)
+- [Taiwin](/pages/islands/taiwan.md)
             
 At each island, you are allowed to:
-* Buy [Ships](/ships.md)
-* Buy [Items](/items.md)
-* Buy/Sell [Goods](/gameplay/economy.md)
+* Buy [Ships](/pages/ships.md)
+* Buy [Items](/pages/items.md)
+* Buy/Sell [Goods](/pages/gameplay/economy.md)
 * Change/Join Krews that are docked there
-* Deposit/Withdraw from [The Bank](/gameplay/bank.md) (only works at [Labrador](/islands/labrador.md))
+* Deposit/Withdraw from [The Bank](/pages/gameplay/bank.md) (only works at [Labrador](/pages/islands/labrador.md))
 Note that upon 8 seconds after arriving at an island, the kaptain of a vessel will be able to dock the ship, which will make it invincible to any enemies. However, during that 10 second period, the ship will be vulnerable to all enemy vessels, unlike departing, which takes either 5 or 25 seconds instead of 10 seconds and is invulnerable during that wait time.
 <table class="article-table">
     <tbody>
         <tr>
-            <th><a href="/wiki/Islands" title="Islands">Island</a>
-                <p>Commodity</p>
-            </th>
-            <th href="/islands/spain.md">Spain</th>
-            <th><a href="/islands/phillipines.md" title="Phillipines">Phillipines</a></th>
-            <th><a href="/islands/guinea.md" title="Guinea">Guinea</a></th>
-            <th><a href="/islands/labrador.md" title="Labrador">Labrador</a></th>
-            <th><a href="/islands/jamaica.md" title="Jamaica">Jamaica</a></th>
-            <th><a href="/islands/malaysia.md" title="Malaysia">Malaysia</a></th>
-            <th><a href="/islands/cuba.md" title="Cuba">Cuba</a></th>
-            <th><a href="/islands/barabados.md" title="Barabados">Barabados</a></th>
-            <th><a href="/islands/brazil.md" title="Brazil">Brazil</a></th>
-            <th><a href="/islands/taiwin.md" title="Taiwin">Taiwan</a></th>
+            <th></th>
+            <th><a href="#/pages/islands/spain.md">Spain</a></th>
+            <th><a href="#/pages/islands/phillipines.md" title="Phillipines">Phillipines</a></th>
+            <th><a href="#/pages/islands/guinea.md" title="Guinea">Guinea</a></th>
+            <th><a href="#/pages/islands/labrador.md" title="Labrador">Labrador</a></th>
+            <th><a href="#/pages/islands/jamaica.md" title="Jamaica">Jamaica</a></th>
+            <th><a href="#/pages/islands/malaysia.md" title="Malaysia">Malaysia</a></th>
+            <th><a href="#/pages/islands/cuba.md" title="Cuba">Cuba</a></th>
+            <th><a href="#/pages/islands/barabados.md" title="Barabados">Barabados</a></th>
+            <th><a href="#/pages/islands/brazil.md" title="Brazil">Brazil</a></th>
+            <th><a href="#/pages/islands/taiwin.md" title="Taiwin">Taiwan</a></th>
         </tr>
         <tr>
-            <td><a href="/cargo/rum.md" title="Rum">Rum</a></td>
+            <td><a href="#/pages/cargo/rum.md" title="Rum">Rum</a></td>
             <td>200</td>
             <td style="background:#b50b0b;">225</td>
             <td>175</td>
@@ -48,7 +48,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td>90</td>
         </tr>
         <tr>
-            <td><a href="/cargo/coffee.md" title="Coffee">Coffee</a></td>
+            <td><a href="#/pages/cargo/coffee.md" title="Coffee">Coffee</a></td>
             <td style="background:#b50b0b;">84</td>
             <td>75</td>
             <td>65</td>
@@ -61,7 +61,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td></td>
         </tr>
         <tr>
-            <td><a href="/cargo/spice.md" title="Spice">Spice</a></td>
+            <td><a href="#/pages/cargo/spice.md" title="Spice">Spice</a></td>
             <td style="background:#0f6e33;">50</td>
             <td>75</td>
             <td>120</td>
@@ -74,7 +74,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td style="background:#0f6e33;">50</td>
         </tr>
         <tr>
-            <td><a href="/cargo/silk.md" title="Silk">Silk</a></td>
+            <td><a href="#/pages/cargo/silk.md" title="Silk">Silk</a></td>
             <td style="background:#0f6e33;">100</td>
             <td>125</td>
             <td style="background:#b50b0b;">360</td>
@@ -87,7 +87,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td>300</td>
         </tr>
         <tr>
-            <td><a href="/cargo/gems.md" title="Gems">Gems</a></td>
+            <td><a href="#/pages/cargo/gems.md" title="Gems">Gems</a></td>
             <td>200</td>
             <td style="background:#0f6e33;">150</td>
             <td>170</td>
@@ -100,7 +100,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td>450</td>
         </tr>
         <tr>
-            <td><a href="/cargo/sugar.md" title="Sugar">Sugar</a></td>
+            <td><a href="#/pages/cargo/sugar.md" title="Sugar">Sugar</a></td>
             <td>175</td>
             <td>145</td>
             <td style="background:#0f6e33;">120</td>
@@ -113,7 +113,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td style="background:#b50b0b;">300</td>
         </tr>
         <tr>
-            <td><a href="/cargo/bananas.md" title="Bananas">Bananas</a></td>
+            <td><a href="#/pages/cargo/bananas.md" title="Bananas">Bananas</a></td>
             <td>70</td>
             <td>65</td>
             <td>60</td>
