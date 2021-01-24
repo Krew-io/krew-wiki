@@ -1,6 +1,7 @@
 
 - [Home](/)
 * [Gameplay](/pages/gameplay.md)
+* [Tips](/pages/tips.md)
 ---
 * [Islands](/pages/islands.md)
 * [Cargo](/pages/cargo.md)
