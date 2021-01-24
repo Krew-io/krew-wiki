@@ -1,8 +1,8 @@
 # Upgrades
 
-In Krew.io, there are 3 main upgrades you can add skill points, which are earned by gaining XP from farming crabs and shells, fishing, or killing other players and [Ships](ships.md).
+In Krew.io, there are 3 main upgrades you can add skill points, which are earned by gaining XP from farming crabs and shells, fishing, or killing other players and [Ships](/pages/ships.md).
 
-The 3 upgrades to choose from are [Fire Rate](firerate.md), [Distance](distance.md), and [Damage](damage.md), which you can either upgrade by hitting the red triangles above the stats, or by pressing `5`, `6`, or `7`.
+The 3 upgrades to choose from are [Fire Rate](/pages/upgrades/firerate.md), [Distance](/pages/upgrades/distance.md), and [Damage](/pages/upgrades/damage.md), which you can either upgrade by hitting the red triangles above the stats, or by pressing `5`, `6`, or `7`.
 
 A few important things to note:
 
