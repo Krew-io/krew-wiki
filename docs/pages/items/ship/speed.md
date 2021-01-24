@@ -2,8 +2,8 @@
 |-|-:
 |Type       | Ship                    
 |Effects    |  +0.2 Ship Speed
-|Price      | 3k [Gold](gold.md)       
-|Islands    | [All Islands](gameplay/islands.md)        
+|Price      | 3k [Gold](/gold.md)       
+|Islands    | [All Islands](/islands.md)        
 |Rarity     | Common                      
 |Requirements| Kaptain
 

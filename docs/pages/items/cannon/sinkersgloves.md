@@ -1,9 +1,9 @@
 |Title      | Sinker's Gloves 
 |:-|-:
 |Type       | Stats           
-|Effects    |  +30% [Fire Rate](gameplay/upgrades/firerate.md)
-|Price      | 45k [Gold](gold.md)
-|Islands    | [Spain](gameplay/islands/spain.md)              
+|Effects    |  +30% [Fire Rate](/upgrades/firerate.md)
+|Price      | 45k [Gold](/gold.md)
+|Islands    | [Spain](/islands/spain.md)              
 |Spawn Rate | 33%             
 |Rarity     | Epic            
 
