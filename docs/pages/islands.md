@@ -1,6 +1,7 @@
 # Islands
 
-There are 10 islands:
+## Island List
+
 - Spain
 - Phillipines
 - Guinea
@@ -11,8 +12,11 @@ There are 10 islands:
 - Barbados
 - Brazil
 - Taiwan
-            
+
+## Island abilities
+
 At each island, you are allowed to:
+
 * Buy [Ships](/pages/ships.md)
 * Buy [Items](/pages/items.md)
 * Buy/Sell [Cargo](/pages/cargo.md)
