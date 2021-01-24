@@ -3,20 +3,20 @@ Krew.io is a unique third person shooter style game that can be played [here](ht
 
 
 # What is Krew.io?
-Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall pirate theme, where players compete to sink each other, race for loot, and attempt to be a successful pirate. Included within the [io games](https://iogames.space) category, but vastly different to most .io games, it is mostly competitive, as players battle each other for #1, but is also somewhat cooperative, as players on the same ship will have to work together to sink enemies.
+Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall pirate theme, where players compete to sink each other, race for loot, and attempt to be a successful pirate. Included within the io games category, but vastly different to most .io games, it is mostly competitive, as players battle each other for #1, but is also somewhat cooperative, as players on the same ship will have to work together to sink enemies.
 <br><br>
 
 # Gameplay Basics
 
 ## Controls
-* `Mouse` -  Control the cannon. Press or hold the left mouse button, or `LMB`, to fire.
+* `Mouse` -  Control the [cannon](pages/tools/cannon.md). Press or hold the left mouse button, or `LMB`, to fire.
 * `ESC` - See your mouse and use it in menus.
 * `Shift` - View user leaderboard.
 * `Enter` - Chat, press again to send a message.
-* `WASD` - Move around and steer ship, if kaptain.
+* `WASD` - Move around and steer ship, if captain.
 * `Tab` - Switch between Global Chat and Local Chat without pressing escape to click between them.
-* `1` `2` `3` - Switch between your cannon, fishing rod, and spyglass.
-* `5` `6` `7` - Upgrade your fire rate, distance, or damage.
+* `1` `2` `3` - Switch between your [cannon](pages/tools/cannon.md), [fishing rod](pages/tools/fishingrod.md), or [spyglass](pages/tools/spyglass.md).
+* `5` `6` `7` - Upgrade your [fire rate](pages/upgrades/firerate.md), [distance](pages/upgrades/distance.md), or [damage](pages/upgrades/damage.md).
 
 ## Objective
 As with most games of this genre, the main goal is to become #1 on the leaderboard. In order to do that, you can either search for [Crabs](/pickups/crabs.md) and [Shells](/pickups/shells.md) on the [Islands](/islands.md) or have to kill other players to gain money to buy better [Ships](/ships.md) to kill more players to gain more money to buy better [Ships](/ships.md).
