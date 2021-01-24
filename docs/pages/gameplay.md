@@ -7,7 +7,7 @@ Okay, so you're a person on a boat. What now?
 ## Starting as a Raft 1 
 If you started on a Raft 1, there are several ways you could gain enough gold to upgrade to a Raft and make life a lot easier.
 
-### Fishing/Collecting Krabs and Klams 
+### Fishing/Collecting Crabs and Clams 
 
 Really, its the best starting strategy. One has no chance of dying and can usually collect 1000 a minute on average.
 
