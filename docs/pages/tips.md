@@ -1,5 +1,5 @@
 # Personal Finance 
-It is suggested that the player collects crabs, shells, or goes [fishing](pages/tools/fishingrod.md) for a while at first to obtain a larger [Ship](/ships.md) than the [Raft 3](/ships/raft3.md).
+It is suggested that the player collects crabs, shells, or goes [fishing](/pages/tools/fishingrod.md) for a while at first to obtain a larger [Ship](/ships.md) than the [Raft 3](/ships/raft3.md).
 
 When first starting out, it is recommended that you collect [shells](/pickups/shells.md) and [crabs](/pickups/crabs.md). This is because one fish earns you about $50 - $350 (varying) while [crabs](/pickups/crabs.md) and [shells](/pickups/shells.md) earn you about the same however they spawn more frequently and the [Crabs](/pickups/crabs.md) varies from $30-$400. One more added advantage is that your [Ships](/ships.md) cannot take damage when not at the sea while you still earn the same amount of money.
 
