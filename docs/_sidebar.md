@@ -44,14 +44,17 @@
     * [Distance](/pages/upgrades/distance.md)
     * [Damage](/pages/upgrades/damage.md)
 * [Items](/pages/items/items.md)
-    * Stats
+    * Stats Items
         * [Fire Rate](/pages/items/stats/firerate.md)
         * [Distance](/pages/items/stats/distance.md)
         * [Damage](/pages/items/stats/damage.md)
-    * Ship
+    * Ship Items
         * [Speed](/pages/items/ship/speed.md)
         * [Air Pegleg](/pages/items/ship/airpegleg.md)
-    * Cannon
+        * [Nitro Peg](/pages/items/ship/nitropeg.md)
+        * [Steel Planks](/pages/items/ship/steelplanks.md)
+        * [Toolkit](/pages/items/ship/toolkit.md)
+    * Cannon Items
         * [Steel Barrel](/pages/items/cannon/steelbarrel.md)
         * [Sinker's Gloves](/pages/items/cannon/sinkersgloves.md)
         * [Blue Gunpowder](/pages/items/cannon/bluegunpowder.md)
