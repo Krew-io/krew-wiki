@@ -1,6 +1,6 @@
 # Cargo
 
-Cargo can be bought and sold at different islands for profit. Every island has different cargo prices, so you can plan out routes to get the most gold in the shortest amount of time. Your boat also has a set cargo space, so you can only buy a certain ammount of cargo.
+Cargo can be bought and sold at different [islands](pages/islands.md) for profit. Every [islands](pages/islands.md) has different cargo prices, so you can plan out routes to get the most gold in the shortest amount of time. Your [ship](pages/ships.md) also has a set cargo space, so you can only buy a certain ammount of cargo.
 
 ## Cargo Prices
 
