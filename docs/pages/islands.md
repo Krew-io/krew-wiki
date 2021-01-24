@@ -58,7 +58,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td>55</td>
             <td>35</td>
             <td style="background:#0f6e33;">30</td>
-            <td></td>
+            <td>45</td>
         </tr>
         <tr>
             <td><a href="#/pages/cargo/spice.md" title="Spice">Spice</a></td>
@@ -76,7 +76,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
         <tr>
             <td><a href="#/pages/cargo/silk.md" title="Silk">Silk</a></td>
             <td style="background:#0f6e33;">100</td>
-            <td>125</td>
+            <td>200</td>
             <td style="background:#b50b0b;">360</td>
             <td>130</td>
             <td>160</td>
@@ -96,17 +96,17 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td>250</td>
             <td>300</td>
             <td>400</td>
+            <td>500</td>
             <td style="background:#b50b0b;">600</td>
-            <td>450</td>
         </tr>
         <tr>
             <td><a href="#/pages/cargo/sugar.md" title="Sugar">Sugar</a></td>
             <td>175</td>
             <td>145</td>
-            <td style="background:#0f6e33;">120</td>
+            <td>120</td>
             <td>200</td>
             <td>175</td>
-            <td>100</td>
+            <td style="background:#0f6e33;">100</td>
             <td>250</td>
             <td>150</td>
             <td>200</td>
@@ -117,8 +117,8 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
             <td>70</td>
             <td>65</td>
             <td>60</td>
-            <td style="background:#0f6e33;">45</td>
-            <td>30</td>
+            <td>45</td>
+            <td style="background:#0f6e33;">30</td>
             <td style="background:#b50b0b;">90</td>
             <td>45</td>
             <td>45</td>
