@@ -52,9 +52,9 @@ Cargo can be bought and sold at different [islands](/pages/islands.md) for profi
             <td>120</td>
             <td>80</td>
             <td>90</td>
-            <td style="background:#b50b0b;">150</td>
+            <td>150</td>
             <td>75</td>
-            <td>100</td>
+            <td style="background:#b50b0b;">100</td>
             <td>120</td>
             <td style="background:#0f6e33;">50</td>
         </tr>
