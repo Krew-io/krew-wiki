@@ -15,7 +15,7 @@
 ---
 
 ## Contribute
-Make sure you have NodeJS and npm installed before continuing.
+Make sure you have [npm](https://www.npmjs.com/get-npm) installed before continuing.
 
 Fork the repository and clone it.
 
