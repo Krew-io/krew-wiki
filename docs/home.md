@@ -4,7 +4,9 @@ Krew.io is a unique third person shooter style game that can be played [here](ht
 
 # What is Krew.io?
 Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall pirate theme, where players compete to sink each other, race for loot, and attempt to be a successful pirate. Included within the io games category, but vastly different to most .io games, it is mostly competitive, as players battle each other for #1, but is also somewhat cooperative, as players on the same ship will have to work together to sink enemies.
-<br><br>
+
+![art0](/assets/img/art0.png)
+
 
 # Gameplay Basics
 
@@ -21,4 +23,8 @@ Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall
 ## Objective
 As with most games of this genre, the main goal is to become #1 on the leaderboard. In order to do that, you can either search for crabs and shells on the [islands](/pages/islands.md), or kill other players to gain money and buy better [ships](/pages/ships.md)).
 
-But you can't do it alone. You will need a krew to provide extra firepower. Also, you can use the trader boats to trade lots of goods to gain gold quickly. You will be an easy target though so you might need a full krew or fleet to protect you. 
+But you can't do it alone. You will need a krew to provide extra firepower. Also, you can use the trader boats to trade lots of goods to gain gold quickly. You will be an easy target though so you might need a full krew or fleet to protect you.
+
+<br><br>
+
+![art1](../assets/img/art1.png)
