@@ -19,7 +19,9 @@ Make sure you have [npm](https://www.npmjs.com/get-npm) installed before continu
 
 Fork the repository and clone it.
 
-All of the wiki is made in markdown, which is essentially text files with additional formatting. You can also add HTML elements within markdown for more complex elements. If you are unfamiliar with markdown formatting, check out [this](https://www.markdownguide.org/cheat-sheet/) website to view the basics of markdown formatting.
+The wiki uses something called docsify, which is an on-the-fly markdown renderer. To learn more about docsify and how to use it, vist their website [here](https://docsify.js.org/#/).
+
+All of the wiki is made in markdown, which is essentially text files with additional formatting. You can also add HTML within the markdown files for more complex elements. If you are unfamiliar with markdown formatting, check out [this](https://www.markdownguide.org/cheat-sheet/) website to view the basics of markdown formatting. `index.html` and `sitemap.xml` can be ignored.
 
 To test your changes, install `docsify-cli` globally with npm:
 ```
