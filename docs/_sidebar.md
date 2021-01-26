@@ -1,7 +1,8 @@
 
 - [Home](/)
 * [Gameplay](/pages/gameplay.md)
-* [Tips](/pages/tips.md)
+* [Tips & Tricks](/pages/tips.md)
+* [Economy](/pages/economy.md)
 ---
 * [Islands](/pages/islands.md)
 * [Cargo](/pages/cargo.md)
@@ -36,13 +37,7 @@
         * [Queen Barb's Justice 2](/pages/ships/qbj2.md)
 ---
 * [Tools](/pages/tools.md)
-    * [Cannon](/pages/tools/cannon.md)
-    * [Fishing Rod](/pages/tools/fishingrod.md)
-    * [Spyglass](/pages/tools/spyglass.md)
 * [Upgrades](/pages/upgrades.md)
-    * [Fire Rate](/pages/upgrades/firerate.md)
-    * [Distance](/pages/upgrades/distance.md)
-    * [Damage](/pages/upgrades/damage.md)
 * [Items](/pages/items.md)
     * Stats Items
         * [Fire Rate](/pages/items/stats/firerate.md)
