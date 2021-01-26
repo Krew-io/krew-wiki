@@ -1,7 +1,7 @@
 # Personal Finance 
 It is suggested that the player collects crabs, shells, or goes [fishing](/pages/tools/fishingrod.md) for a while at first to obtain a larger [Ship](/ships.md) than the [Raft 3](/ships/raft3.md).
 
-When first starting out, it is recommended that you collect [shells](/pickups/shells.md) and [crabs](/pickups/crabs.md). This is because one fish earns you about $50 - $350 (varying) while [crabs](/pickups/crabs.md) and [shells](/pickups/shells.md) earn you about the same however they spawn more frequently and the [Crabs](/pickups/crabs.md) varies from $30-$400. One more added advantage is that your [Ships](/ships.md) cannot take damage when not at the sea while you still earn the same amount of money.
+When first starting out, it is recommended that you collect shells and crabs. This is because one fish earns you about $50 - $350 (varying) while crabs and shells earn you about the same however they spawn more frequently and the crabs varies from $30-$400. One more added advantage is that your [Ships](/ships.md) cannot take damage when not at the sea while you still earn the same amount of money.
 
 However, there is another strategy that is possible if you want to play aggressively. If you simply select the option spawn in the sea on the menu you can sail in a circle and [Fishing Rod](/tools/fishingrod.md) fish and kill other players who come near. In this scenario, it seems that while [Fishing Rod](/tools/fishingrod.md) at sea, there is a considerable increase in [Fishing Rod](/tools/fishingrod.md) speed which is an added advantage.
 
