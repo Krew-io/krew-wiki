@@ -1,11 +1,11 @@
 
 - [Home](/)
+---
 * [Gameplay](/pages/gameplay.md)
-* [Tips & Tricks](/pages/tips.md)
 * [Economy](/pages/economy.md)
+* [Tips & Tricks](/pages/tips.md)
 ---
 * [Islands](/pages/islands.md)
-* [Cargo](/pages/cargo.md)
 ---
 * [Ships](/pages/ships.md)
     * Rafts
