@@ -2,7 +2,7 @@
 |:-|-:
 |Type       | Stats                    
 |Effects    |  +5 [Damage](/upgrades/damage.md)
-|Price      | 5k [Gold](/gold.md)               
+|Price      | 5k Gold            
 |Islands    | [All Islands](/islands.md)  
 |Spawn Rate | 100%                      
 |Rarity     | Common                    
