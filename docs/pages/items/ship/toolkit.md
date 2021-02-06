@@ -2,8 +2,8 @@
 |-|-:
 |Type       | Ship                    
 |Effects    |  +2 Ship Regeneration
-|Price      | 100k [Gold](/gold.md)       
-|Islands    | [Malaysia](/islands/malaysia.md)        
+|Price      | 100k Gold    
+|Islands    | Malaysia       
 |Rarity     | Legendary                     
 |Requirements| Kaptain
 

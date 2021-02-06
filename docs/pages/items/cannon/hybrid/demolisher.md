@@ -2,8 +2,8 @@
 |:-|-:
 |Type       | Hybrid          
 |Effects    |  +25% [Fire Rate](/upgrades/firerate.md) & +4 [Damage](/upgrades/damage.md)
-|Price      | 100k [Gold](/gold.md)
-|Islands    | [Jamaica](/islands/jamaica.md)
+|Price      | 100k Gold
+|Islands    | Taiwan
 |Rarity     | Legendary      
 |Requirements| 10 kills        
 

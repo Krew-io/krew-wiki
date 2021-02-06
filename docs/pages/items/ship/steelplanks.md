@@ -2,8 +2,8 @@
 |-|-:
 |Type       | Ship                    
 |Effects    |  +40% Ship HP
-|Price      | 200k [Gold](/gold.md)       
-|Islands    | [Taiwan](/islands/taiwan.md)        
+|Price      | 200k Gold    
+|Islands    | Taiwan       
 |Rarity     | Legendary                     
 |Requirements| Kaptain
 

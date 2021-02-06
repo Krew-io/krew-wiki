@@ -2,8 +2,8 @@
 |-|-:
 |Type       | Ship                    
 |Effects    |  +2 Ship Speed
-|Price      | 200k [Gold](/gold.md)       
-|Islands    | [Jamica](/islands/jamaica.md)        
+|Price      | 200k Gold    
+|Islands    | Jamaica       
 |Rarity     | Legendary                     
 |Requirements| Kaptain
 

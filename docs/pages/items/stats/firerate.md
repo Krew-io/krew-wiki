@@ -2,7 +2,7 @@
 |:-|-:
 |Type       | Stats                    
 |Effects    |  +5% [Fire Rate](/upgrades/firerate.md)
-|Price      | 2k [Gold](/gold.md)               
+|Price      | 2k Gold            
 |Islands    | [All Islands](/islands.md)  
 |Spawn Rate | 100%                      
 |Rarity     | Common                    

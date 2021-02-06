@@ -2,11 +2,11 @@
 |:-|-:
 |Type       | Stats           
 |Effects    |  +30% [Fire Rate](/upgrades/firerate.md)
-|Price      | 45k [Gold](/gold.md)
-|Islands    | [Spain](/islands/spain.md)              
+|Price      | 45k Gold
+|Islands    | Spain              
 |Spawn Rate | 33%             
 |Rarity     | Epic            
 
-The Fire Rate Upgrade adds 5% Fire Rate to your cannon. 
+The Sinker's Gloves adds 30% Fire Rate to your cannon. 
 
 
