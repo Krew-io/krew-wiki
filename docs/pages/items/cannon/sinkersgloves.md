@@ -1,12 +1,11 @@
-|Title      | Sinker's Gloves 
+|Title        | Sinker's Gloves 
 |:-|-:
-|Type       | Stats           
-|Effects    |  +30% [Fire Rate](/upgrades/firerate.md)
-|Price      | 45k Gold
-|Islands    | Spain              
-|Spawn Rate | 33%             
-|Rarity     | Epic            
+|Type         | Stats           
+|Effects      |  +25% [Fire Rate](/upgrades/firerate.md)
+|Price        | 45k Gold
+|Islands      | Spain & Brazil            
+|Spawn Chance | 20%                        
 
-The Sinker's Gloves adds 30% Fire Rate to your cannon. 
+The Sinker's Gloves adds 25% Fire Rate to your cannon. 
 
 

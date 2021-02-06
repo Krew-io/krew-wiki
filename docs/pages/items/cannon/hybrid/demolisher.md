@@ -1,12 +1,12 @@
-|Title      | Demolisher      
+|Title        | Demolisher      
 |:-|-:
-|Type       | Hybrid          
-|Effects    |  +25% [Fire Rate](/upgrades/firerate.md) & +4 [Damage](/upgrades/damage.md)
-|Price      | 100k Gold
-|Islands    | Taiwan
-|Rarity     | Legendary      
-|Requirements| 10 kills        
+|Type         | Hybrid          
+|Effects      |  +30% [Fire Rate](/upgrades/firerate.md) & +10 [Damage](/upgrades/damage.md)
+|Price        | 100k Gold
+|Islands      | Taiwan
+|Spawn Chance | 100%
+|Requirements | Obtain 10 kills and Trade 100k Gold   
 
-The Demolisher adds 25% Fire Rate and 4 Damage to your cannon. 
+The Demolisher adds 30% Fire Rate and 10 Damage to your cannon. 
 
 
