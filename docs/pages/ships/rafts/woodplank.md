@@ -8,3 +8,5 @@
 |Speed        | 6.5
 |Max Capacity | 1
 |Cargo Size   | 200
+
+![Wood Plank](../assets/img/raft.png)

@@ -33,6 +33,8 @@
         * [Royal Fortune 2](/pages/ships/big-mamas/royalfortune2.md)
         * [Calm Spirit](/pages/ships/big-mamas/calmspirit.md)
         * [Calm Spirit 2](/pages/ships/big-mamas/calmspirit2.md)
+        * [Junkie](/pages/ships/big-mamas/junkie.md)
+        * [Raider](/pages/ships/big-mamas/raider.md)
         * [Queen Barb's Justice](/pages/ships/big-mamas/qbj.md)
         * [Queen Barb's Justice 2](/pages/ships/big-mamas/qbj2.md)
         * [Black Oyster](/pages/ships/big-mamas/blackoyster.md)
