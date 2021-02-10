@@ -9,4 +9,4 @@
 |Max Capacity | 6
 |Cargo Size   | 6000
 
-![Trader 3](../assets/img/trader.png)
+<img src="assets/img/trader.png" alt="Trader 3">

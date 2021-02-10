@@ -9,4 +9,4 @@
 |Max Capacity | 14
 |Cargo Size   | 1300
 
-![Destroyer 2](../assets/img/destroyer.png)
+<img src="assets/img/destroyer.png" alt="Destroyer 2">

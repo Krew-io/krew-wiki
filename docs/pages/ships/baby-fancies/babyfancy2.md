@@ -9,4 +9,4 @@
 |Max Capacity | 3
 |Cargo Size   | 900
 
-![Baby Fancy 2](../assets/img/babyFancy.png)
+<img src="assets/img/babyFancy.png" alt="Baby Fancy 2">

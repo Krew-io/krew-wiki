@@ -9,4 +9,4 @@
 |Max Capacity | 16
 |Cargo Size   | 1600
 
-![Destroyer 3](../assets/img/destroyer.png)
+<img src="assets/img/destroyer.png" alt="Destroyer 3">

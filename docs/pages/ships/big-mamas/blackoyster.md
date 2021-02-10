@@ -9,4 +9,4 @@
 |Max Capacity | 30
 |Cargo Size   | 1500
 
-![Black Oyster](../assets/img/blackOyster.png)
+<img src="assets/img/Black Oyster.png" alt="Black Oyster" width="150px" length="150px">

@@ -9,4 +9,4 @@
 |Max Capacity | 25
 |Cargo Size   | 4000
 
-![Queen Barb's Justice 2](../assets/img/queenBarbsJustice.png)
+<img src="assets/img/queenBarbsJustice.png" alt="Queen Barb's Justice 2"  width="150px" length="150px">

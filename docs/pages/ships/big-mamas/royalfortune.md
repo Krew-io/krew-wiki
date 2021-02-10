@@ -9,4 +9,4 @@
 |Max Capacity | 15
 |Cargo Size   | 1200
 
-![Royal Fortune](../assets/img/royalFortune.png)
+<img src="assets/img/royalFortune.png" alt="Royal Fortune">

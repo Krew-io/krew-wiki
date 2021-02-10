@@ -9,4 +9,4 @@
 |Max Capacity | 6
 |Cargo Size   | 4000
 
-![Trader 2](../assets/img/trader.png)
+<img src="assets/img/trader.png" alt="Trader 2">

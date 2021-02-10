@@ -9,4 +9,4 @@
 |Max Capacity | 8
 |Cargo Size   | 2000
 
-![Junkie](../assets/img/junkie.png)
+<img src="assets/img/junkie.png" alt="Junkie" width="150px" length="150px">

@@ -9,4 +9,4 @@
 |Max Capacity | 7
 |Cargo Size   | 700
 
-![Boat 3](../assets/img/boat.png)
+<img src="assets/img/boat.png" alt="boat 3">

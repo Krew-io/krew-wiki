@@ -9,4 +9,4 @@
 |Max Capacity | 12
 |Cargo Size   | 1000
 
-![Destroyer 1](../assets/img/destroyer.png)
+<img src="assets/img/destroyer.png" alt="Destroyer 1">

@@ -9,4 +9,4 @@
 |Max Capacity | 1
 |Cargo Size   | 200
 
-![Raft1](../assets/img/raft.png)
+<img src="assets/img/raft.png" alt="Raft 1">

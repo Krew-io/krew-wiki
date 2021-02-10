@@ -9,4 +9,4 @@
 |Max Capacity | 20
 |Cargo Size   | 10000
 
-![Fortune Trader](../assets/img/fortuneTrader.png)
+<img src="assets/img/fortuneTrader.png" alt="Fortune Trader" width="150px" length="120px">

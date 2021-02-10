@@ -9,4 +9,4 @@
 |Max Capacity | 6
 |Cargo Size   | 1000
 
-![Raider](../assets/img/raider.png)
+<img src="assets/img/raider.png" alt="Raider"  width="150px" length="150px">

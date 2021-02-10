@@ -9,4 +9,4 @@
 |Max Capacity | 1
 |Cargo Size   | 200
 
-![Wood Plank](../assets/img/raft.png)
+<img src="assets/img/raft.png" alt="Wooden Plank">

@@ -9,6 +9,6 @@
 |Max Capacity | 18
 |Cargo Size   | 1400
 
-![Royal Fortune 2](../assets/img/royalFortune.png)
+<img src="assets/img/royalFortune.png" alt="Royal Fortune 2">
 
         

@@ -9,4 +9,4 @@
 |Max Capacity | 18
 |Cargo Size   | 2000
 
-![Calm Spirit](../assets/img/calmSpirit.png)
+<img src="assets/img/calmSpirit.png" alt="Calm Spirit">

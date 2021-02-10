@@ -9,4 +9,4 @@
 |Max Capacity | 4
 |Cargo Size   | 2000
 
-![Trader 1](../assets/img/trader.png)
+<img src="assets/img/trader.png" alt="Trader 1">

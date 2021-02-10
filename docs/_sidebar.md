@@ -52,7 +52,7 @@
         * [Air Pegleg](/pages/items/ship/airpegleg.md)
         * [Nitro Peg](/pages/items/ship/nitropeg.md)
         * [Steel Planks](/pages/items/ship/steelplanks.md)
-        * [Reinforced Planks](/pages/items/ship/reinforced.md)
+        * [Reinforced Planks](/pages/items/ship/reinforcedplanks.md)
         * [Toolkit](/pages/items/ship/toolkit.md)
     * Cannon Items
         * [Steel Barrel](/pages/items/cannon/steelbarrel.md)
