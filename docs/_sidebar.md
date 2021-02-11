@@ -47,8 +47,9 @@
         * [Fire Rate](/pages/items/stats/firerate.md)
         * [Distance](/pages/items/stats/distance.md)
         * [Damage](/pages/items/stats/damage.md)
+        * [Speed](/pages/items/stats/speed.md)
+        * [Fountain Of Youth](/pages/items/stats/fountain.md)
     * Ship Items
-        * [Speed](/pages/items/ship/speed.md)
         * [Air Pegleg](/pages/items/ship/airpegleg.md)
         * [Nitro Peg](/pages/items/ship/nitropeg.md)
         * [Steel Planks](/pages/items/ship/steelplanks.md)
