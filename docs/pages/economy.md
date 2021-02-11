@@ -22,16 +22,16 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
     <tbody>
         <tr>
             <th></th>
-            <th><a href="#/pages/islands/spain.md">Spain </th>
-            <th><a href="#/pages/islands/phillipines.md" title="Phillipines">Phillipines </th>
-            <th><a href="#/pages/islands/guinea.md" title="Guinea">Guinea </th>
-            <th><a href="#/pages/islands/malaysia.md" title="Malaysia">Malaysia </th>
-            <th><a href="#/pages/islands/brazil.md" title="Brazil">Brazil </th>
-            <th><a href="#/pages/islands/barabados.md" title="Barabados">Barabados </th>
-            <th><a href="#/pages/islands/taiwin.md" title="Taiwin">Taiwan </th>
-            <th><a href="#/pages/islands/cuba.md" title="Cuba">Cuba </th>
-            <th><a href="#/pages/islands/labrador.md" title="Labrador">Labrador </th>
-            <th><a href="#/pages/islands/jamaica.md" title="Jamaica">Jamaica </th>
+            <th>Spain </th>
+            <th>Phillipines </th>
+            <th>Guinea </th>
+            <th>Malaysia </th>
+            <th>Brazil </th>
+            <th>Barabados </th>
+            <th>Taiwan </th>
+            <th>Cuba </th>
+            <th>Labrador </th>
+            <th>Jamaica </th>
         </tr>
         <tr>
             <td>Rum</td>
@@ -73,7 +73,7 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
             <td>75</td>
         </tr>
         <tr>
-            <td><a href="#/pages/cargo/silk.md" title="Silk">Silk </td>
+            <td>Silk</td>
             <td style="background:#0f6e33;">100</td>
             <td>110</td>
             <td>125</td>

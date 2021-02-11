@@ -11,13 +11,13 @@ Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall
 # Gameplay Basics
 
 ## Controls
-* `Mouse` -  Control the [cannon](/pages/tools/cannon.md). Press or hold the left mouse button, or `LMB`, to fire.
+* `Mouse` -  Control the Cannon. Press or hold the left mouse button, or `LMB`, to fire.
 * `ESC` - See your mouse and use it in menus.
 * `Shift` - View user leaderboard.
 * `Enter` - Chat, press again to send a message.
 * `WASD` - Move around and steer ship, if captain.
 * `Tab` - Switch between Global Chat and Local Chat without pressing escape to click between them.
-* `1` `2` `3` - Switch between your [cannon](/pages/tools/cannon.md), [fishing rod](/pages/tools/fishingrod.md), or [spyglass](/pages/tools/spyglass.md).
+* `1` `2` `3` - Switch between your Cannon, Fishing Rod, or Spy Glass.
 * `5` `6` `7` - Upgrade your [fire rate](/pages/upgrades/firerate.md), [distance](/pages/upgrades/distance.md), or [damage](/pages/upgrades/damage.md).
 
 ## Objective
@@ -27,4 +27,4 @@ But you can't do it alone. You will need a krew to provide extra firepower. You 
 
 <br><br>
 
-![art1](../assets/img/art1.png)
+![art1](/assets/img/art1.png)
