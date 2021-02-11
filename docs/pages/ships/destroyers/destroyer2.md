@@ -8,5 +8,6 @@
 |Speed        | 5.8
 |Max Capacity | 14
 |Cargo Size   | 1300
+|Regeneration | 1
 
 <img src="assets/img/destroyer.png" alt="Destroyer 2">

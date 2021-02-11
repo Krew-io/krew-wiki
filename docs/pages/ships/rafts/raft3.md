@@ -8,5 +8,6 @@
 |Speed        | 5.8
 |Max Capacity | 3
 |Cargo Size   | 400
+|Regeneration | 1
 
 <img src="assets/img/raft.png" alt="Raft 3">

@@ -8,5 +8,6 @@
 |Speed        | 5.9
 |Max Capacity | 6
 |Cargo Size   | 600
+|Regeneration | 1
 
 <img src="assets/img/boat.png" alt="boat 2">
