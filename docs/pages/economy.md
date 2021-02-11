@@ -1,6 +1,6 @@
 # Economy
 
-<p style="color:#00FF00;">Note: All prices and values below are accurate as of 1/26/2021</p>
+<p style="color:#00FF00;">Note: All prices and values below are accurate as of 2/11/2021</p>
 
 The economy is very basic, there are seven different types of goods all priced differently on each island. Different types of cargo take up more or less cargo space than others. Here is a list of all of the cargo types, and the space they take up.
 
@@ -22,107 +22,107 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
     <tbody>
         <tr>
             <th></th>
-            <th><a href="#/pages/islands/spain.md">Spain</a></th>
-            <th><a href="#/pages/islands/phillipines.md" title="Phillipines">Phillipines</a></th>
-            <th><a href="#/pages/islands/guinea.md" title="Guinea">Guinea</a></th>
-            <th><a href="#/pages/islands/labrador.md" title="Labrador">Labrador</a></th>
-            <th><a href="#/pages/islands/jamaica.md" title="Jamaica">Jamaica</a></th>
-            <th><a href="#/pages/islands/malaysia.md" title="Malaysia">Malaysia</a></th>
-            <th><a href="#/pages/islands/cuba.md" title="Cuba">Cuba</a></th>
-            <th><a href="#/pages/islands/barabados.md" title="Barabados">Barabados</a></th>
-            <th><a href="#/pages/islands/brazil.md" title="Brazil">Brazil</a></th>
-            <th><a href="#/pages/islands/taiwin.md" title="Taiwin">Taiwan</a></th>
+            <th><a href="#/pages/islands/spain.md">Spain </th>
+            <th><a href="#/pages/islands/phillipines.md" title="Phillipines">Phillipines </th>
+            <th><a href="#/pages/islands/guinea.md" title="Guinea">Guinea </th>
+            <th><a href="#/pages/islands/malaysia.md" title="Malaysia">Malaysia </th>
+            <th><a href="#/pages/islands/brazil.md" title="Brazil">Brazil </th>
+            <th><a href="#/pages/islands/barabados.md" title="Barabados">Barabados </th>
+            <th><a href="#/pages/islands/taiwin.md" title="Taiwin">Taiwan </th>
+            <th><a href="#/pages/islands/cuba.md" title="Cuba">Cuba </th>
+            <th><a href="#/pages/islands/labrador.md" title="Labrador">Labrador </th>
+            <th><a href="#/pages/islands/jamaica.md" title="Jamaica">Jamaica </th>
         </tr>
         <tr>
-            <td><a href="#/pages/cargo/rum.md" title="Rum">Rum</a></td>
-            <td>200</td>
-            <td style="background:#b50b0b;">225</td>
-            <td>175</td>
-            <td>100</td>
-            <td>100</td>
-            <td>145</td>
-            <td style="background:#0f6e33;">75</td>
-            <td>90</td>
-            <td>120</td>
-            <td>90</td>
-        </tr>
-        <tr>
-            <td><a href="#/pages/cargo/coffee.md" title="Coffee">Coffee</a></td>
-            <td style="background:#b50b0b;">84</td>
-            <td>75</td>
-            <td>65</td>
-            <td>70</td>
-            <td>60</td>
-            <td>50</td>
-            <td>55</td>
-            <td>35</td>
-            <td style="background:#0f6e33;">30</td>
-            <td>45</td>
-        </tr>
-        <tr>
-            <td><a href="#/pages/cargo/spice.md" title="Spice">Spice</a></td>
-            <td style="background:#0f6e33;">50</td>
-            <td>75</td>
-            <td>120</td>
-            <td>80</td>
-            <td>90</td>
-            <td style="background:#b50b0b;">150</td>
-            <td>75</td>
-            <td>100</td>
-            <td>120</td>
-            <td style="background:#0f6e33;">50</td>
-        </tr>
-        <tr>
-            <td><a href="#/pages/cargo/silk.md" title="Silk">Silk</a></td>
-            <td style="background:#0f6e33;">100</td>
-            <td>200</td>
-            <td style="background:#b50b0b;">360</td>
-            <td>130</td>
+            <td>Rum</td>
+            <td>140</td>
+            <td>150</td>
             <td>160</td>
             <td>175</td>
-            <td>175</td>
-            <td>250</td>
-            <td>330</td>
-            <td>300</td>
+            <td style="background:#b50b0b;">180</td>
+            <td style="background:#0f6e33;">90</td>
+            <td>100</td>
+            <td>115</td>
+            <td>125</td>
+            <td>135</td>
         </tr>
         <tr>
-            <td><a href="#/pages/cargo/gems.md" title="Gems">Gems</a></td>
-            <td>200</td>
-            <td style="background:#0f6e33;">150</td>
-            <td>170</td>
-            <td>220</td>
-            <td>240</td>
-            <td>250</td>
-            <td>300</td>
-            <td>400</td>
-            <td>500</td>
-            <td style="background:#b50b0b;">600</td>
-        </tr>
-        <tr>
-            <td><a href="#/pages/cargo/sugar.md" title="Sugar">Sugar</a></td>
-            <td>175</td>
-            <td>145</td>
-            <td>120</td>
-            <td>200</td>
-            <td>175</td>
-            <td style="background:#0f6e33;">100</td>
-            <td>250</td>
-            <td>150</td>
-            <td>200</td>
-            <td style="background:#b50b0b;">300</td>
-        </tr>
-        <tr>
-            <td><a href="#/pages/cargo/bananas.md" title="Bananas">Bananas</a></td>
-            <td>70</td>
-            <td>65</td>
+            <td>Coffee</td>
+            <td>55</td>
             <td>60</td>
-            <td>45</td>
+            <td>65</td>
+            <td>70</td>
+            <td style="background:#b50b0b;">80</td>
             <td style="background:#0f6e33;">30</td>
-            <td style="background:#b50b0b;">90</td>
+            <td>35</td>
+            <td>40</td>
             <td>45</td>
-            <td>45</td>
-            <td>85</td>
+            <td>55</td>
+        </tr>
+        <tr>
+            <td>Spice</td>
+            <td>65</td>
+            <td>90</td>
+            <td style="background:#0f6e33;">50</td>
             <td>80</td>
+            <td>90</td>
+            <td style="background:#b50b0b;">100</td>
+            <td style="background:#0f6e33;">50</td>
+            <td>55</td>
+            <td>60</td>
+            <td>75</td>
+        </tr>
+        <tr>
+            <td><a href="#/pages/cargo/silk.md" title="Silk">Silk </td>
+            <td style="background:#0f6e33;">100</td>
+            <td>110</td>
+            <td>125</td>
+            <td>130</td>
+            <td>145</td>
+            <td>150</td>
+            <td>169</td>
+            <td>175</td>
+            <td style="background:#b50b0b;">200</td>
+            <td>150</td>
+        </tr>
+        <tr>
+            <td>Gems</td>
+            <td style="background:#b50b0b;">300</td>
+            <td style="background:#0f6e33;">150</td>
+            <td>160</td>
+            <td>175</td>
+            <td>200</td>
+            <td>215</td>
+            <td>250</td>
+            <td>175</td>
+            <td>175</td>
+            <td>240</td>
+        </tr>
+        <tr>
+            <td>Sugar</td>
+            <td>160</td>
+            <td>175</td>
+            <td style="background:#b50b0b;">200</td>
+            <td style="background:#0f6e33;">100</td>
+            <td>120</td>
+            <td>115</td>
+            <td>130</td>
+            <td>140</td>
+            <td>150</td>
+            <td>150</td>
+        </tr>
+        <tr>
+            <td>Bananas</td>
+            <td>65</td>
+            <td>75</td>
+            <td>80</td>
+            <td style="background:#b50b0b;">90</td>
+            <td style="background:#0f6e33;">30</td>
+            <td>40</td>
+            <td>45</td>
+            <td>75</td>
+            <td>35</td>
+            <td>60</td>
         </tr>
     </tbody>
 </table>

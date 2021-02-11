@@ -5,7 +5,7 @@ Okay, so you're a person on a boat. What now?
 * Upgrade your stats by clicking the stat at the bottom or pressing `5`, `6`, and `7`.
 
 ## Starting as a Raft 1 
-If you started on a Raft 1, there are several ways you could gain enough gold to upgrade to a Raft and make life a lot easier.
+If you started on a [Raft 1](/pages/ships/rafts/raft1.md), there are several ways you could gain enough gold to upgrade to a bigger [Ship](/pages/ships.md) and make life a lot easier.
 
 ### Fishing/Collecting Crabs and Clams 
 
@@ -21,7 +21,7 @@ You could go near 2 ships which are fighting each other and steal the winner's s
 
 ### Picking the Ideal Island 
 
-Once you have enough $2,400 for a Raft 3, you must now pick an ideal island to upgrade. You'd think the island with 1 raft is better than the island with 10 rafts fighting each other. But no! More conflict is actually **better** for Rafts. Many won't focus on a Raft if they're already fighting a Boat. And the island with the 1 raft could be a Raft 2 or Raft 3 which could easily sink a Raft.
+Once you have enough $2,400 for a [Raft 3](/pages/ships/rafts/raft3.md), you must now pick an ideal island to upgrade. You'd think the island with 1 raft is better than the island with 10 rafts fighting each other. But no! More conflict is actually **better** for Rafts. Many won't focus on a Raft if they're already fighting a Boat. And the island with the 1 raft could be a [Raft 2](/pages/ships/rafts/raft2.md) or [Raft 3](/pages/ships/rafts/raft3.md) which could easily sink a Raft.
 
 ## Trading Ships 
 If you are content with staying away from conflict and trading, you should get a Trader. Traders have low health and low maximum krew, but have thousands of cargo space. A trader 1 is very effective and also not very much. 5 minutes of grind should yield one and (can be acquired easily after. Alternatively, travel in a fleet of other ships who have an alliance with you. Try to have enough Gold) to fill up your cargo space to make the best of trading ships. It would be advisable to go straight for a Trader, as it is relatively cheap but has the most space and health among the trader ships. The Traders' slow speed and low health mean that it is easily sunk by pirates, and its large amounts of cargo makes it an even more valuable target, hence the best sailing route will be one that is safe, profitable and short.
@@ -35,7 +35,7 @@ Once you get enough [to buy a ship, you can break free from your kaptain, either
 
 ### Abandoning Ship 
 
-While abandoning ship is much quicker, you only get a wood plank, which can be easily sunk as it has only 25 hp. The more conflict surrounding the area, the more likely your escape is to be successful. If there is no conflict, the krew members of the ship you were just on will turn on you and sink you.
+While abandoning ship is much quicker, you only get a [Wood Plank](/pages/ships/rafts/woodplank.md), which can be easily sunk as it has only 25 hp. The more conflict surrounding the area, the more likely your escape is to be successful. If there is no conflict, the krew members of the ship you were just on will turn on you and sink you.
 
 ### Go to Island 
 
@@ -68,10 +68,10 @@ After a dozen or so minutes as a Boat, you'll notice that you've gathered up a d
 Destroyer life is hard at first. You must get used to the very unwieldy turning of the destroyer, and you'll probably lose a few boats because the destroyer is not very maneuverable. The destroyer is not for chasing; it is for sheer brute force. The maximum amount of krew on a Destroyer is a powerful threat in the game, provided that all of them are at least half-decent at aiming.
 
 ### Baby Fancies 
-This is probably the best choice if you are solo pirating. A Baby can handle a lot of damage and many others miss shots on it due to its sleek body shape. It has a good damage output (3 krew slots) for firing and has been known to create several glitches, often incorrectly referred to as "hacks". It also has a sail that allows it to go quite fast (5.9 units) and 300 health, or in the case of the Baby Fancy 2, 500 health. The cargo is either 500 or 600, which allows a little trading to be done on the side. The best trade route for a fancy would be Jamaica-Guinea, where one would attack traders and rafts along the way.
+This is probably the best choice if you are solo pirating. A Baby can handle a lot of damage and many others miss shots on it due to its sleek body shape. It has a good damage output (3 krew slots) for firing and has been known to create several glitches, often incorrectly referred to as "hacks". It also has a sail that allows it to go quite fast (5.9 units) and 300 health, or in the case of the [Baby Fancy 2](/pages/ships/baby-fancies/babyfancy2.md), 500 health. The cargo is either 500 or 600, which allows a little trading to be done on the side. The best trade route for a fancy would be Jamaica-Guinea, where one would attack traders and rafts along the way.
 
 ### Big Mamas 
-Big mamas are larger and cost more than destroyers. They are fast, with moderate to larger health (1800-7500). The largest ships are the Fortune Trader and the Black Oyster. It is recommended that you have a moderate to large size of krew (10-25) when buying ships of these kinds. They have been known to fall to the Baby Fancy and Baby Fancy 2 due to their ship being so insanely large and easy to hit.
+Big mamas are larger and cost more than destroyers. They are fast, with moderate to larger health (1800-7500). The largest ships are the [Fortune Trader](/pages/ships/big-mamas/fortunetrader.md) and the [Black Oyster](/pages/ships/big-mamas/blackoyster.md). It is recommended that you have a moderate to large size of krew (10-25) when buying ships of these kinds. They have been known to fall to the [Baby Fancy](/pages/ships/baby-fancies/babyfancy1.md) and [Baby Fancy 2](/pages/ships/baby-fancies/babyfancy2.md) due to their ship being so insanely large and easy to hit.
 
 ## A Word of Warning 
 Be careful; if your ship sinks, you will lose your gold and you have to respawn. It's more desirable to retire when at a peaceful island, so your krew can continue your legacy under a new kaptain.
