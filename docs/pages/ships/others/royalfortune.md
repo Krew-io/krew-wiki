@@ -8,5 +8,6 @@
 |Speed        | 6
 |Max Capacity | 15
 |Cargo Size   | 1200
+|Regeneration | 1
 
 <img src="assets/img/royalFortune.png" alt="Royal Fortune">

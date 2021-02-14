@@ -8,5 +8,6 @@
 |Speed        | 5.9
 |Max Capacity | 3
 |Cargo Size   | 600
+|Regeneration | 1
 
 <img src="assets/img/babyFancy.png" alt="Baby Fancy 1">

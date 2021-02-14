@@ -8,5 +8,6 @@
 |Speed        | 5.7
 |Max Capacity | 16
 |Cargo Size   | 1600
+|Regeneration | 1
 
 <img src="assets/img/destroyer.png" alt="Destroyer 3">

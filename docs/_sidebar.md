@@ -29,16 +29,17 @@
         * [Destroyer 2](/pages/ships/destroyers/destroyer2.md)
         * [Destroyer 3](/pages/ships/destroyers/destroyer3.md)
     * Big Mamas
-        * [Royal Fortune](/pages/ships/big-mamas/royalfortune.md)
-        * [Royal Fortune 2](/pages/ships/big-mamas/royalfortune2.md)
-        * [Calm Spirit](/pages/ships/big-mamas/calmspirit.md)
-        * [Calm Spirit 2](/pages/ships/big-mamas/calmspirit2.md)
-        * [Junkie](/pages/ships/big-mamas/junkie.md)
-        * [Raider](/pages/ships/big-mamas/raider.md)
         * [Queen Barb's Justice](/pages/ships/big-mamas/qbj.md)
         * [Queen Barb's Justice 2](/pages/ships/big-mamas/qbj2.md)
         * [Black Oyster](/pages/ships/big-mamas/blackoyster.md)
         * [Fortune Trader](/pages/ships/big-mamas/fortunetrader.md)
+    * Others
+        * [Royal Fortune](/pages/ships/others/royalfortune.md)
+        * [Royal Fortune 2](/pages/ships/others/royalfortune2.md)
+        * [Calm Spirit](/pages/ships/others/calmspirit.md)
+        * [Calm Spirit 2](/pages/ships/others/calmspirit2.md)
+        * [Junkie](/pages/ships/others/junkie.md)
+        * [Raider](/pages/ships/others/raider.md)
 ---
 * [Tools](/pages/tools.md)
 * [Upgrades](/pages/upgrades.md)

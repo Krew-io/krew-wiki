@@ -8,5 +8,6 @@
 |Speed        | 5.9
 |Max Capacity | 8
 |Cargo Size   | 2000
+|Regeneration | 1
 
 <img src="assets/img/junkie.png" alt="Junkie" width="150px" length="150px">

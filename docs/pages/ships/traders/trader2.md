@@ -8,5 +8,6 @@
 |Speed        | 5
 |Max Capacity | 6
 |Cargo Size   | 4000
+|Regeneration | 1
 
 <img src="assets/img/trader.png" alt="Trader 2">

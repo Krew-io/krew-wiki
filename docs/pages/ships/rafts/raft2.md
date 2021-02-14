@@ -8,5 +8,6 @@
 |Speed        | 5.9
 |Max Capacity | 2
 |Cargo Size   | 300
+|Regeneration | 1
 
 <img src="assets/img/raft.png" alt="Raft 2">

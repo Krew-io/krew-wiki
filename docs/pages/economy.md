@@ -35,94 +35,94 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
         </tr>
         <tr>
             <td>Rum</td>
-            <td>140</td>
-            <td>150</td>
-            <td>160</td>
-            <td>175</td>
-            <td style="background:#b50b0b;">180</td>
-            <td style="background:#0f6e33;">90</td>
-            <td>100</td>
-            <td>115</td>
-            <td>125</td>
-            <td>135</td>
+            <td>135</td><!-- Spain -->
+            <td>110</td><!-- Philippines -->
+            <td>145</td><!-- Guinea -->
+            <td>155</td><!-- Malaysia -->
+            <td>160</td><!-- Brazil -->
+            <td>175</td><!-- Barbados -->
+            <td>210</td><!-- Taiwan -->
+            <td style="background:#b50b0b;">225</td><!-- Cuba -->
+            <td style="background:#0f6e33;">90</td><!-- Labrador -->
+            <td>100</td><!-- Jamaica -->
         </tr>
         <tr>
             <td>Coffee</td>
-            <td>55</td>
-            <td>60</td>
-            <td>65</td>
-            <td>70</td>
-            <td style="background:#b50b0b;">80</td>
-            <td style="background:#0f6e33;">30</td>
-            <td>35</td>
-            <td>40</td>
-            <td>45</td>
-            <td>55</td>
+            <td>55</td><!-- Spain -->
+            <td>60</td><!-- Philippines -->
+            <td>65</td><!-- Guinea -->
+            <td>95</td><!-- Malaysia -->
+            <td style="background:#b50b0b;">120</td><!-- Brazil -->
+            <td style="background:#0f6e33;">30</td><!-- Barbados -->
+            <td>35</td><!-- Taiwan -->
+            <td>40</td><!-- Cuba -->
+            <td>45</td><!-- Labrador -->
+            <td>55</td><!-- Jamaica -->
         </tr>
         <tr>
             <td>Spice</td>
-            <td>65</td>
-            <td>90</td>
-            <td style="background:#0f6e33;">50</td>
-            <td>80</td>
-            <td>90</td>
-            <td style="background:#b50b0b;">100</td>
-            <td style="background:#0f6e33;">50</td>
-            <td>55</td>
-            <td>60</td>
-            <td>75</td>
+            <td>65</td><!-- Spain -->
+            <td>65</td><!-- Philippines -->
+            <td>70</td><!-- Guinea -->
+            <td>125</td><!-- Malaysia -->
+            <td>135</td><!-- Brazil -->
+            <td style="background:#b50b0b;">150</td><!-- Barbados -->
+            <td style="background:#0f6e33;">50</td><!-- Taiwan -->
+            <td>75</td><!-- Cuba -->
+            <td>80</td><!-- Labrador -->
+            <td>100</td><!-- Jamaica -->
         </tr>
         <tr>
             <td>Silk</td>
-            <td style="background:#0f6e33;">100</td>
-            <td>110</td>
-            <td>125</td>
-            <td>130</td>
-            <td>145</td>
-            <td>150</td>
-            <td>169</td>
-            <td>175</td>
-            <td style="background:#b50b0b;">200</td>
-            <td>150</td>
+            <td>120</td><!-- Spain -->
+            <td>125</td><!-- Philippines -->
+            <td>145</td><!-- Guinea -->
+            <td>165</td><!-- Malaysia -->
+            <td>175</td><!-- Brazil -->
+            <td>200</td><!-- Barbados -->
+            <td style="background:#b50b0b;">275</td><!-- Taiwan -->
+            <td style="background:#0f6e33;">100</td><!-- Cuba -->
+            <td>110</td><!-- Labrador -->
+            <td>120</td><!-- Jamaica -->
         </tr>
         <tr>
             <td>Gems</td>
-            <td style="background:#b50b0b;">300</td>
-            <td style="background:#0f6e33;">150</td>
-            <td>160</td>
-            <td>175</td>
-            <td>200</td>
-            <td>215</td>
-            <td>250</td>
-            <td>175</td>
-            <td>175</td>
-            <td>240</td>
+            <td>160</td><!-- Spain -->
+            <td style="background:#0f6e33;">150</td><!-- Philippines -->
+            <td>175</td><!-- Guinea -->
+            <td>175</td><!-- Malaysia -->
+            <td>200</td><!-- Brazil -->
+            <td>215</td><!-- Barbados -->
+            <td>265</td><!-- Taiwan -->
+            <td>290</td><!-- Cuba -->
+            <td style="background:#b50b0b;">300</td><!-- Labrador -->
+            <td>250</td><!-- Jamaica -->
         </tr>
         <tr>
             <td>Sugar</td>
-            <td>160</td>
-            <td>175</td>
-            <td style="background:#b50b0b;">200</td>
-            <td style="background:#0f6e33;">100</td>
-            <td>120</td>
-            <td>115</td>
-            <td>130</td>
-            <td>140</td>
-            <td>150</td>
-            <td>150</td>
+            <td>160</td><!-- Spain -->
+            <td>200</td><!-- Philippines -->
+            <td style="background:#b50b0b;">225</td><!-- Guinea -->
+            <td style="background:#0f6e33;">100</td><!-- Malaysia -->
+            <td>120</td><!-- Brazil -->
+            <td>125</td><!-- Barbados -->
+            <td>130</td><!-- Taiwan -->
+            <td>160</td><!-- Cuba -->
+            <td>175</td><!-- Labrador -->
+            <td>200</td><!-- Jamaica -->
         </tr>
         <tr>
             <td>Bananas</td>
-            <td>65</td>
-            <td>75</td>
-            <td>80</td>
-            <td style="background:#b50b0b;">90</td>
-            <td style="background:#0f6e33;">30</td>
-            <td>40</td>
-            <td>45</td>
-            <td>75</td>
-            <td>35</td>
-            <td>60</td>
+            <td>75</td><!-- Spain -->
+            <td>100</td><!-- Philippines -->
+            <td>145</td><!-- Guinea -->
+            <td style="background:#b50b0b;">150</td><!-- Malaysia -->
+            <td style="background:#0f6e33;">30</td><!-- Brazil -->
+            <td>40</td><!-- Barbados -->
+            <td>45</td><!-- Taiwan -->
+            <td>60</td><!-- Cuba -->
+            <td>75</td><!-- Labrador -->
+            <td>75</td><!-- Jamaica -->
         </tr>
     </tbody>
 </table>

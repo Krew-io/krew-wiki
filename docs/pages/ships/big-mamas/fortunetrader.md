@@ -8,5 +8,6 @@
 |Speed        | 6
 |Max Capacity | 20
 |Cargo Size   | 10000
+|Regeneration | 1
 
 <img src="assets/img/fortuneTrader.png" alt="Fortune Trader" width="150px" length="120px">
