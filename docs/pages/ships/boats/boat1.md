@@ -10,4 +10,4 @@
 |Cargo Size   | 500
 |Regeneration | 1
 
-<img src="assets/img/boat.png" alt="boat 1">
+<img src="assets/img/boat.png" alt="boat 1" width="150px" length="150px">
