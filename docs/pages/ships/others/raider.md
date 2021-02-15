@@ -10,4 +10,4 @@
 |Cargo Size   | 1000
 |Regeneration | 1
 
-<img src="assets/img/raider.png" alt="Raider"  width="150px" length="150px">
+<img src="assets/img/raider.png" alt="Raider" width="150px" length="150px">
