@@ -5,12 +5,13 @@ Items allow you to upgrade your [ship stats](/pages/ships.md) and your [fighting
 
 ---
 
-**Classic Items**
+**Other Items**
 
 - [Damage](/pages/items/stats/damage.md)
 - [Distance](/pages/items/stats/distance.md)
 - [Fire Rate](/pages/items/stats/firerate.md)
 - [Speed](/pages/items/stats/speed.md)
+- [Fountain of Youth](/pages/items/stats/speed.md)
 
 ---
 
@@ -37,14 +38,5 @@ Items allow you to upgrade your [ship stats](/pages/ships.md) and your [fighting
 - [Reinforced Planks](/pages/items/ship/reinforcedplanks.md)
 - [Steel Reinforced Planks](/pages/items/ship/steelplanks.md)
 - [Advanced Toolkit](/pages/items/ship/toolkit.md)
-
----
-
-**Classic Items**
-
-- [Damage](/pages/items/stats/damage.md)
-- [Distance](/pages/items/stats/distance.md)
-- [Fire Rate](/pages/items/stats/firerate.md)
-- [Speed](/pages/items/stats/speed.md)
 
 ---

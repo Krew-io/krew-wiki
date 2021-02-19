@@ -3,11 +3,11 @@
 |Type         | Raft                  
 |Price        | 500 Gold    
 |Islands      | Buyable at every island except jamaica
-|Hp           | 75
+|Hp           | 100
 |Turnspeed    | 1.2
-|Speed        | 6.5
+|Speed        | 6.8
 |Max Capacity | 1
-|Cargo Size   | 200
+|Cargo Size   | 250
 |Regeneration | 1
 
 <img src="assets/img/raft.png" alt="Raft 1">

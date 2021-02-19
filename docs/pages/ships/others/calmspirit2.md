@@ -1,7 +1,7 @@
 |Title        | Calm Spirit 2
 |:-|-:
-|Type         | Big Mama     
-|Price        | 170000 Gold    
+|Type         | Others 
+|Price        | 150k Gold    
 |Islands      | Jamaica
 |Hp           | 2200
 |Turnspeed    | 0.7
