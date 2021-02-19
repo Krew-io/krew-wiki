@@ -5,7 +5,7 @@
 |Islands      | Every island Except Jamaica
 |Hp           | 600
 |Turnspeed    | 0.7
-|Speed        | 5.9
+|Speed        | 6.1
 |Max Capacity | 6
 |Cargo Size   | 600
 |Regeneration | 1

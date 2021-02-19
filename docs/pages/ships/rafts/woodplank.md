@@ -3,9 +3,9 @@
 |Type         | Raft                  
 |Price        | 500 Gold    
 |Islands      | Only Obtainable Through Abandoning Ship
-|Hp           | 75
+|Hp           | 50
 |Turnspeed    | 1.2
-|Speed        | 6.5
+|Speed        | 7
 |Max Capacity | 1
 |Cargo Size   | 200
 |Regeneration | 1

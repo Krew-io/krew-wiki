@@ -1,7 +1,7 @@
 |Title        | Calm Spirit
 |:-|-:
-|Type         | Big Mama     
-|Price        | 120000 Gold    
+|Type         | Others    
+|Price        | 100k Gold    
 |Islands      | Spain, Guinea, Cuba
 |Hp           | 1800
 |Turnspeed    | 0.7
