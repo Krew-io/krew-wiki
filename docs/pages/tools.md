@@ -17,5 +17,5 @@ To fish, cast your fishing rod into the water by pressing `RMD`. It can be selec
 ## Spyglass
 
 The spyglass is used to zoom in your view to see other ships better. It can be selected by pressing `3` and you can zoom in with `LMB`.
-
+You can see the desired magnification by adjusting the spyglass appropriately.
 ---
