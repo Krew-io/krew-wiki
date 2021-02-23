@@ -1,7 +1,7 @@
 |Title        | Queen Barb's Justice
 |:-|-:
 |Type         | Big Mama     
-|Price        | 200000 Gold    
+|Price        | 175000 Gold    
 |Islands      | Spain, Malaysia
 |Hp           | 3000
 |Turnspeed    | 0.7

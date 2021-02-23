@@ -6,13 +6,13 @@ The 3 upgrades to choose from are Fire Rate, Distance, and Damage, which you can
 
 ## Fire Rate
 This upgrades the reload speed of your cannon. 
-
+Slight damage increases as the fire rate increases.
 Pressing `5` upgrades Fire Rate by 1 point.
 
 ---
 ## Distance 
 This upgrades the distance of your cannon.
-
+Slight damage increases as the distance increases.
 Pressing `6` upgrades Distance by 1 point.
 
 ---

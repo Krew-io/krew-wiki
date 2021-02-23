@@ -5,7 +5,7 @@
 |Islands      | Buyable at every island except jamaica
 |Hp           | 150
 |Turnspeed    | 1
-|Speed        | 5.9
+|Speed        | 6.7
 |Max Capacity | 2
 |Cargo Size   | 300
 |Regeneration | 1

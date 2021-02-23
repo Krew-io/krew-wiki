@@ -35,16 +35,16 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
         </tr>
         <tr>
             <td>Rum</td>
-            <td>135</td><!-- Spain -->
-            <td>110</td><!-- Philippines -->
-            <td>145</td><!-- Guinea -->
-            <td>155</td><!-- Malaysia -->
-            <td>160</td><!-- Brazil -->
-            <td>175</td><!-- Barbados -->
+            <td>155</td><!-- Spain -->
+            <td>145</td><!-- Philippines-->
+            <td>155</td><!-- Guinea -->
+            <td>165</td><!-- Malaysia -->
+            <td>180</td><!-- Brazil -->
+            <td>195</td><!-- Barbados -->
             <td>210</td><!-- Taiwan -->
-            <td style="background:#b50b0b;">225</td><!-- Cuba -->
-            <td style="background:#0f6e33;">90</td><!-- Labrador -->
-            <td>100</td><!-- Jamaica -->
+            <td style="background:#b50b0b;">270</td><!-- Cuba -->
+            <td style="background:#0f6e33;">70</td><!-- Labrador -->
+            <td>170</td><!-- Jamaica -->
         </tr>
         <tr>
             <td>Coffee</td>
@@ -52,8 +52,8 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
             <td>60</td><!-- Philippines -->
             <td>65</td><!-- Guinea -->
             <td>95</td><!-- Malaysia -->
-            <td style="background:#b50b0b;">120</td><!-- Brazil -->
-            <td style="background:#0f6e33;">30</td><!-- Barbados -->
+            <td style="background:#b50b0b;">125</td><!-- Brazil -->
+            <td style="background:#0f6e33;">25</td><!-- Barbados -->
             <td>35</td><!-- Taiwan -->
             <td>40</td><!-- Cuba -->
             <td>45</td><!-- Labrador -->
@@ -61,16 +61,16 @@ Trading goods is the fastest way to get gold if you do it right. If you want to 
         </tr>
         <tr>
             <td>Spice</td>
-            <td>65</td><!-- Spain -->
-            <td>65</td><!-- Philippines -->
-            <td>70</td><!-- Guinea -->
-            <td>125</td><!-- Malaysia -->
-            <td>135</td><!-- Brazil -->
-            <td style="background:#b50b0b;">150</td><!-- Barbados -->
-            <td style="background:#0f6e33;">50</td><!-- Taiwan -->
-            <td>75</td><!-- Cuba -->
-            <td>80</td><!-- Labrador -->
-            <td>100</td><!-- Jamaica -->
+            <td>210</td><!-- Spain -->
+            <td>270</td><!-- Philippines-->
+            <td>35</td><!-- Guinea -->
+            <td>135</td><!-- Malaysia -->
+            <td>210</td><!-- Brazil -->
+            <td style="background:#b50b0b;">270</td><!-- Barbados -->
+            <td style="background:#0f6e33;">35</td><!-- Taiwan -->
+            <td>90</td><!-- Cuba -->
+            <td>120</td><!-- Labrador -->
+            <td>130</td><!-- Jamaica -->
         </tr>
         <tr>
             <td>Silk</td>
