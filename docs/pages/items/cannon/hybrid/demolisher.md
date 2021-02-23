@@ -1,8 +1,8 @@
 |Title        | Demolisher      
 |:-|-:
 |Type         | Hybrid          
-|Effects      |  +30% [Fire Rate](/upgrades/firerate.md) & +10 [Damage](/upgrades/damage.md)
-|Price        | 100k Gold
+|Effects      |  +40% [Fire Rate](/upgrades/firerate.md) & +15 [Damage](/upgrades/damage.md)
+|Price        | 400k Gold
 |Islands      | Jamaica
 |Spawn Chance | 100%
 |Requirements | Obtain 10 kills and Trade 100k Gold   

@@ -7,3 +7,7 @@
 |Spawn Chance | 35%        
 
 The Bruiser adds 10% Fire Rate and 2 Damage to your cannon. 
+
+
+BRUISER DELETED
+    
