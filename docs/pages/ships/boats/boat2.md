@@ -1,7 +1,7 @@
 |Title        | Boat 2
 |:-|-:
 |Type         | Boat           
-|Price        | 11000 Gold    
+|Price        | 11k Gold    
 |Islands      | Every island Except Jamaica
 |Hp           | 600
 |Turnspeed    | 0.7

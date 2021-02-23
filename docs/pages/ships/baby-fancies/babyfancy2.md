@@ -1,7 +1,7 @@
 |Title        | Baby Fancy 2
 |:-|-:
 |Type         | Baby Fancy           
-|Price        | 30000 Gold    
+|Price        | 30k Gold    
 |Islands      | Jamaica
 |Hp           | 500
 |Turnspeed    | 1

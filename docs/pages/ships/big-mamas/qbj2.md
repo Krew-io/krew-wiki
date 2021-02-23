@@ -1,7 +1,7 @@
 |Title        | Queen Barb's Justice 2
 |:-|-:
 |Type         | Big Mama     
-|Price        | 350000 Gold    
+|Price        | 275k Gold    
 |Islands      | Jamaica
 |Hp           | 4000
 |Turnspeed    | 0.7

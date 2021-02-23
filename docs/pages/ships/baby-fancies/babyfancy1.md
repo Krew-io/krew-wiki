@@ -1,7 +1,7 @@
 |Title        | Baby Fancy 1
 |:-|-:
 |Type         | Baby Fancy           
-|Price        | 8000 Gold    
+|Price        | 8k Gold    
 |Islands      | Spain, Brazil, Cuba
 |Hp           | 300
 |Turnspeed    | 1
