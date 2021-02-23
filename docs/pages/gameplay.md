@@ -72,6 +72,7 @@ This is probably the best choice if you are solo pirating. A Baby Fancy can hand
 
 ### Big Mamas 
 Big mamas are larger and cost more than destroyers. They are fast, with moderate to larger health (1800-7500). The largest ships are the [Fortune Trader](/pages/ships/big-mamas/fortunetrader.md) and the [Black Oyster](/pages/ships/big-mamas/blackoyster.md). It is recommended that you have a moderate to large size of krew (10-25) when buying ships of these kinds. They have been known to fall to the [Baby Fancy](/pages/ships/baby-fancies/babyfancy1.md) and [Baby Fancy 2](/pages/ships/baby-fancies/babyfancy2.md) due to their ship being so insanely large and easy to hit.
+When you're chased by snipers, pretending to flee to the island and docking to the island, press the C key quickly to leave the island, the other sniper will be hard to avoid
 
 ## A Word of Warning 
 Be careful; if your ship sinks, you will lose your gold and you have to respawn. It's more desirable to retire when at a peaceful island, so your krew can continue your legacy under a new kaptain.
