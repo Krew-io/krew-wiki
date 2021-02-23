@@ -35,7 +35,7 @@ Once you get enough to buy a ship, you can break free from your kaptain, either 
 
 ### Abandoning Ship 
 
-While abandoning ship is much quicker, you only get a [Wood Plank](/pages/ships/rafts/woodplank.md), which can be easily sunk as it has only 25 hp. The more conflict surrounding the area, the more likely your escape is to be successful. If there is no conflict, the krew members of the ship you were just on will turn on you and sink you.
+While abandoning ship is much quicker, you only get a [Wood Plank](/pages/ships/rafts/woodplank.md), which can be easily sunk as it has only 25 hp. The more conflict surrounding the area, the more likely your escape is to be successful. If there is no conflict, the krew members of the ship you were just on will turn on you and sink you. Also if you are captain, you can make others captain and quickly abandon ship. But if you really need, then use this strategy. 
 
 ### Go to Island 
 
