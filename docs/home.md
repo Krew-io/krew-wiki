@@ -19,6 +19,7 @@ Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall
 * `Tab` - Switch between Global Chat and Local Chat without pressing escape to click between them.
 * `1` `2` `3` - Switch between your Cannon, Fishing Rod, or Spy Glass.
 * `5` `6` `7` - Upgrade your fire rate, distance, or damage.
+* `q` - You can check the quest.
 
 ## Objective
 As with most games of this genre, the main goal is to become #1 on the leaderboard. In order to do that, you can either search for crabs and shells on the [islands](/pages/islands.md), or kill other players to gain money and buy better [ships](/pages/ships.md).
