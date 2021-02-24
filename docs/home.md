@@ -22,6 +22,7 @@ Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall
 * `q` - You can check the quest.
 * `m` - You can show or hide the map.
 * `,` - You can show or hide chatting.
+* `h` - Help can be checked.
 
 ## Objective
 As with most games of this genre, the main goal is to become #1 on the leaderboard. In order to do that, you can either search for crabs and shells on the [islands](/pages/islands.md), or kill other players to gain money and buy better [ships](/pages/ships.md).
