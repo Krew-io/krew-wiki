@@ -11,7 +11,7 @@ Items allow you to upgrade your [ship stats](/pages/ships.md) and your [fighting
 - [Distance](/pages/items/stats/distance.md)
 - [Fire Rate](/pages/items/stats/firerate.md)
 - [Speed](/pages/items/stats/speed.md)
-- [Fountain of Youth](/pages/items/stats/speed.md)
+- [Fountain of Youth](/pages/items/stats/fountain.md)
 
 ---
 
@@ -26,7 +26,7 @@ Items allow you to upgrade your [ship stats](/pages/ships.md) and your [fighting
 **Hybrid Cannon Items**
 
 - [Bruiser](/pages/items/cannon/hybrid/bruiser.md)
-- [Drifter](/pages/items/cannon/hybrid/Drifter.md)
+- [Drifter](/pages/items/cannon/hybrid/drifter.md)
 - [Demolisher](/pages/items/cannon/hybrid/demolisher.md)
 
 ---

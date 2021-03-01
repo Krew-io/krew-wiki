@@ -1,6 +1,6 @@
 # Economy
 
-<p style="color:#00FF00;">Note: All prices and values below are accurate as of 2/11/2021</p>
+<p style="color:#00FF00;">Note: All prices and values below are accurate as of 3/01/2021</p>
 
 The economy is very basic, there are seven different types of goods all priced differently on each island. Different types of cargo take up more or less cargo space than others. Here is a list of all of the cargo types, and the space they take up.
 
