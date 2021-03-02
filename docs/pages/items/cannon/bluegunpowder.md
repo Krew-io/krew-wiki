@@ -1,10 +1,9 @@
 |Title        | Blue Gunpowder 
 |:-|-:
 |Type         | Cannon            
-|Effects      | +8 [Damage](/upgrades/damage.md)
-|Price        | 50k Gold
+|Effects      | +35 [Damage](/upgrades/damage.md)
+|Price        | 200k Gold
 |Islands      | Jamaica 
-|Spawn Chance | 25%           
  
-The Blue Gunpowder adds 8 Damage to your cannon. 
+The Blue Gunpowder adds 35 Damage your cannon. 
 

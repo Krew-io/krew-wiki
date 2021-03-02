@@ -4,7 +4,6 @@
 |Effects      |  +30% [Distance](/upgrades/distance.md)
 |Price        | 35k Gold    
 |Islands      | Labrador 
-|Spawn Chance | 60%           
 
 The Steel Barrel adds 30% Distance to your cannon. 
 

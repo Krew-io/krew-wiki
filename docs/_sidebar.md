@@ -58,6 +58,7 @@
         * [Toolkit](/pages/items/ship/toolkit.md)
     * Cannon Items
         * [Steel Barrel](/pages/items/cannon/steelbarrel.md)
+        * [Titanium Barrel](/pages/items/cannon/titaniumbarrel.md)
         * [Sinker's Gloves](/pages/items/cannon/sinkersgloves.md)
         * [Blue Gunpowder](/pages/items/cannon/bluegunpowder.md)
         * Hybrid

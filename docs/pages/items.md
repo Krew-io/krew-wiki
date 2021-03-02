@@ -19,6 +19,7 @@ Items allow you to upgrade your [ship stats](/pages/ships.md) and your [fighting
 
 - [Blue Gunpowder](/pages/items/cannon/bluegunpowder.md)
 - [Steel Barrel](/pages/items/cannon/steelbarrel.md)
+- [Titanium Barrel](/pages/items/cannon/titaniumbarrel.md)
 - [Sinker's Gloves](/pages/items/cannon/sinkersgloves.md)
 
 ---
