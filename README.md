@@ -9,7 +9,6 @@
 <p align="center">
     <img src="https://img.shields.io/github/contributors/Krew-io/krew-wiki?style=for-the-badge&color=f26248">
     <img src="https://img.shields.io/github/last-commit/Krew-io/krew-wiki?style=for-the-badge&color=f26248">
-    <img src="https://img.shields.io/website?style=for-the-badge&down_color=ff4b3b&down_message=offline&up_color=90de31&up_message=online&url=https%3A%2F%2Fwiki.krew.io">
 </p>
 
 ---
